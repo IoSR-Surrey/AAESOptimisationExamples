@@ -10,7 +10,7 @@ Please view this on [GitHub pages](https://iosr-surrey.github.io/AAESOptimisatio
     alt="LargeSystemSpects" 
     src="https://github.com/user-attachments/assets/3779328d-50df-4c78-b602-c5660de33f2e"
   />
-  <div style="display: flex; flex-direction: column; gap: 100px;">
+  <div style="display: flex; flex-direction: column; gap: 80px;">
     <h2>Impulse Responses</h2>
     <audio controls>
       <source src="Audio/Fig%204/passive_room_R0_S0.wav" type="audio/wav">
@@ -29,7 +29,7 @@ Please view this on [GitHub pages](https://iosr-surrey.github.io/AAESOptimisatio
       Open on GitHub pages to view audio player (link above)
     </audio>
   </div>
-  <div style="display: flex; flex-direction: column; gap: 100px;">
+  <div style="display: flex; flex-direction: column; gap: 80px;">
     <h2>Saxophone Convolution</h2>
     <audio controls>
       <source src="Audio/Fig%204/passive_room_R0_S0.wav" type="audio/wav">
