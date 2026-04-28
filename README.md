@@ -13,19 +13,19 @@ Please view this on [GitHub pages](https://iosr-surrey.github.io/AAESOptimisatio
   <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <audio controls>
       <source src="Audio/Fig%204/passive_room_R0_S0.wav" type="audio/wav">
-      Your browser does not support the audio element.
+      Open on GitHub pages to view audio player (link above)
     </audio>
     <audio controls>
       <source src="Audio/Fig%204/16x16_no-eq_R0_S0.wav" type="audio/wav">
-      Your browser does not support the audio element.
+      Open on GitHub pages to view audio player (link above)
     </audio>
     <audio controls>
       <source src="Audio/Fig%204/16x16_open-loop_optimised_R0_S0.wav" type="audio/wav">
-      Your browser does not support the audio element.
+      Open on GitHub pages to view audio player (link above)
     </audio>
     <audio controls>
       <source src="Audio/Fig%204/16x16_closed-loop_optimised_R0_S0.wav" type="audio/wav">
-      Your browser does not support the audio element.
+      Open on GitHub pages to view audio player (link above)
     </audio>
   </div>
 </div>
