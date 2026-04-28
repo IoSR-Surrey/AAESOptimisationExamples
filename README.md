@@ -4,7 +4,28 @@ Audio examples for the paper "Closed-Loop Differentiable Optimisation for Active
 Please view this on [GitHub pages](https://iosr-surrey.github.io/AAESOptimisationExamples/).
 
 # Figure 4
-<audio controls>
-  <source src="Audio/Fig 4/passive_room_R0_S0.wav" type="audio/wav">
-  Open in GitHub pages to view audio player.
-</audio>
+<div style="display: flex; flex-direction: column; gap: 16px;">
+  <img 
+    style="width:400px; height: auto;"
+    alt="LargeSystemSpects" 
+    src="https://github.com/user-attachments/assets/3779328d-50df-4c78-b602-c5660de33f2e"
+  />
+  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <audio controls>
+      <source src="Audio/Fig%204/passive_room_R0_S0.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+      <source src="Audio/Fig%204/16x16_no-eq_R0_S0.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+      <source src="Audio/Fig%204/16x16_open-loop_optimised_R0_S0.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+    <audio controls>
+      <source src="Audio/Fig%204/16x16_closed-loop_optimised_R0_S0.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
