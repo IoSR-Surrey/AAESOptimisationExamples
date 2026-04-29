@@ -9,14 +9,10 @@ Power spectrograms of the 16 × 16 AAES RIRs for one source-receiver pair before
   <img 
     style="width:400px; height: auto;"
     alt="Large System Spectrograms"
-    src="https://github.com/user-attachments/assets/3779328d-50df-4c78-b602-c5660de33f2e"
+    src="https://github.com/user-attachments/assets/9a826fe8-c524-4787-9a11-92220b41a4c4"
   />
-  <div style="display: flex; flex-direction: column; gap: 80px;">
+  <div style="display: flex; flex-direction: column; gap: 60px;">
     <h2>Impulse Responses</h2>
-    <audio controls>
-      <source src="Audio/Fig%204/passive_room_R0_S0.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
     <audio controls>
       <source src="Audio/Fig%204/16x16_no-eq_R0_S0.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
@@ -30,12 +26,8 @@ Power spectrograms of the 16 × 16 AAES RIRs for one source-receiver pair before
       Open on GitHub pages to view audio player (link above)
     </audio>
   </div>
-  <div style="display: flex; flex-direction: column; gap: 80px;">
+  <div style="display: flex; flex-direction: column; gap: 60px;">
     <h2>Saxophone Convolution</h2>
-    <audio controls>
-      <source src="Audio/Fig%204/passive_room_R0_S0.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
     <audio controls>
       <source src="Audio/Fig%204/16x16_no-eq_R0_S0.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
@@ -59,7 +51,7 @@ Power spectrograms of the target RIR versus one source-receiver pair in the opti
     alt="EDC Matching Spectrograms"
     src="https://github.com/user-attachments/assets/a1d8e33b-87ea-43fe-a071-c378398f8a80"
   />
-  <div style="display: flex; flex-direction: column; gap: 80px;">
+  <div style="display: flex; flex-direction: column; gap: 60px;">
     <h2>Impulse Responses</h2>
     <audio controls>
       <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
@@ -74,7 +66,7 @@ Power spectrograms of the target RIR versus one source-receiver pair in the opti
       Open on GitHub pages to view audio player (link above)
     </audio>
   </div>
-  <div style="display: flex; flex-direction: column; gap: 80px;">
+  <div style="display: flex; flex-direction: column; gap: 60px;">
     <h2>Saxophone Convolution</h2>
     <audio controls>
       <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
