@@ -52,12 +52,12 @@ Power spectrograms of the 16 × 16 AAES RIRs for one source-receiver pair before
 </div>
 
 # Figure 6
-Power spectrograms of the target RIR versus one source-receiver pair in the optimised 16×16 AAES.
+Power spectrograms of the target RIR versus one source-receiver pair in the optimised 16×16 AAES. Dashed line = -30 dB.
 <div style="display: flex; flex-direction: row; gap: 16px;">
   <img 
     style="width:400px; height: auto;"
-    alt="EDC Matching Spectrograms" 
-    src="https://github.com/user-attachments/assets/597bec42-e8a3-4a31-8a92-c872070efd5e"
+    alt="EDC Matching Spectrograms"
+    src="https://github.com/user-attachments/assets/a1d8e33b-87ea-43fe-a071-c378398f8a80"
   />
   <div style="display: flex; flex-direction: column; gap: 80px;">
     <h2>Impulse Responses</h2>
