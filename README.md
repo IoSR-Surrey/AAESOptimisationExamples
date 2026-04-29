@@ -11,7 +11,7 @@ Power spectrograms of the 16 × 16 AAES RIRs for one source-receiver pair before
     alt="Large System Spectrograms"
     src="https://github.com/user-attachments/assets/9a826fe8-c524-4787-9a11-92220b41a4c4"
   />
-  <div style="display: flex; flex-direction: column; gap: 40px;">
+  <div style="display: flex; flex-direction: column; gap: 20px;">
     <h2>Impulse Responses</h2>
     <div>
       <h3>Passive Room</h3>
@@ -42,8 +42,8 @@ Power spectrograms of the 16 × 16 AAES RIRs for one source-receiver pair before
       </audio>
     </div>
   </div>
-  <div style="display: flex; flex-direction: column; gap: 40px;">
-    <h2>Impulse Responses</h2>
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <h2>Saxophone Convolution</h2>
     <div>
       <h3>Passive Room</h3>
       <audio controls>
@@ -83,7 +83,7 @@ Power spectrograms of the target RIR versus one source-receiver pair in the opti
     alt="EDC Matching Spectrograms"
     src="https://github.com/user-attachments/assets/a1d8e33b-87ea-43fe-a071-c378398f8a80"
   />
-  <div style="display: flex; flex-direction: column; gap: 60px;">
+  <div style="display: flex; flex-direction: column; gap: 20px;">
     <h2>Impulse Responses</h2>
     <div>
       <h3>Passive Room</h3>
@@ -107,7 +107,7 @@ Power spectrograms of the target RIR versus one source-receiver pair in the opti
       </audio>
     </div>
   </div>
-  <div style="display: flex; flex-direction: column; gap: 60px;">
+  <div style="display: flex; flex-direction: column; gap: 20px;">
     <h2>Saxophone Convolution</h2>
     <div>
       <h3>Passive Room</h3>
