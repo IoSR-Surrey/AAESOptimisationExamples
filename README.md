@@ -16,7 +16,7 @@ Power spectrograms of the 16×16 AAES RIRs for one source-receiver pair before a
         </audio>
       </div>
       <div>
-        <h3>No EQ</h3>
+        <h3>No Equalisation</h3>
         <audio controls>
           <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
@@ -49,7 +49,7 @@ Power spectrograms of the 16×16 AAES RIRs for one source-receiver pair before a
         </audio>
       </div>
       <div>
-        <h3>No EQ</h3>
+        <h3>No Equalisation</h3>
         <audio controls>
           <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
