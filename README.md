@@ -11,43 +11,67 @@ Power spectrograms of the 16 × 16 AAES RIRs for one source-receiver pair before
     alt="Large System Spectrograms"
     src="https://github.com/user-attachments/assets/9a826fe8-c524-4787-9a11-92220b41a4c4"
   />
-  <div style="display: flex; flex-direction: column; gap: 60px;">
+  <div style="display: flex; flex-direction: column; gap: 40px;">
     <h2>Impulse Responses</h2>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
+    <div>
+      <h3>Passive Room</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>No EQ</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Open Loop</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Closed Loop</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
   </div>
-  <div style="display: flex; flex-direction: column; gap: 60px;">
+  <div style="display: flex; flex-direction: column; gap: 40px;">
     <h2>Impulse Responses</h2>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
+    <div>
+      <h3>Passive Room</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>No EQ</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Open Loop</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Closed Loop</h3>
+      <audio controls>
+        <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
   </div>
 </div>
 
@@ -61,32 +85,50 @@ Power spectrograms of the target RIR versus one source-receiver pair in the opti
   />
   <div style="display: flex; flex-direction: column; gap: 60px;">
     <h2>Impulse Responses</h2>
-    <audio controls>
-      <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%206/target_room.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%206/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
+    <div>
+      <h3>Passive Room</h3>
+      <audio controls>
+        <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Target</h3>
+      <audio controls>
+        <source src="Audio/Fig%206/target_room.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Optimised</h3>
+      <audio controls>
+        <source src="Audio/Fig%206/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
   </div>
   <div style="display: flex; flex-direction: column; gap: 60px;">
-    <h2>Saxophone Convolution</h2>
-    <audio controls>
-      <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%206/target_room.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
-    <audio controls>
-      <source src="Audio/Fig%206/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
-      Open on GitHub pages to view audio player (link above)
-    </audio>
+    <h2>Impulse Responses</h2>
+    <div>
+      <h3>Passive Room</h3>
+      <audio controls>
+        <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Target</h3>
+      <audio controls>
+        <source src="Audio/Fig%206/target_room.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
+    <div>
+      <h3>Optimised</h3>
+      <audio controls>
+        <source src="Audio/Fig%206/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
+        Open on GitHub pages to view audio player (link above)
+      </audio>
+    </div>
   </div>
 </div>
