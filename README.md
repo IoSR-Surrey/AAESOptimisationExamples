@@ -14,30 +14,38 @@ Power spectrograms of the 16 × 16 AAES RIRs for one source-receiver pair before
   <div style="display: flex; flex-direction: column; gap: 60px;">
     <h2>Impulse Responses</h2>
     <audio controls>
-      <source src="Audio/Fig%204/16x16_no-eq_R0_S0.wav" type="audio/wav">
+      <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
     </audio>
     <audio controls>
-      <source src="Audio/Fig%204/16x16_open-loop_optimised_R0_S0.wav" type="audio/wav">
+      <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
     </audio>
     <audio controls>
-      <source src="Audio/Fig%204/16x16_closed-loop_optimised_R0_S0.wav" type="audio/wav">
+      <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
+      Open on GitHub pages to view audio player (link above)
+    </audio>
+    <audio controls>
+      <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
     </audio>
   </div>
   <div style="display: flex; flex-direction: column; gap: 60px;">
-    <h2>Saxophone Convolution</h2>
+    <h2>Impulse Responses</h2>
     <audio controls>
-      <source src="Audio/Fig%204/16x16_no-eq_R0_S0.wav" type="audio/wav">
+      <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
     </audio>
     <audio controls>
-      <source src="Audio/Fig%204/16x16_open-loop_optimised_R0_S0.wav" type="audio/wav">
+      <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
     </audio>
     <audio controls>
-      <source src="Audio/Fig%204/16x16_closed-loop_optimised_R0_S0.wav" type="audio/wav">
+      <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
+      Open on GitHub pages to view audio player (link above)
+    </audio>
+    <audio controls>
+      <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
       Open on GitHub pages to view audio player (link above)
     </audio>
   </div>
