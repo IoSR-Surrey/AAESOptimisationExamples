@@ -23,14 +23,14 @@ Power spectrograms of the 16×16 AAES RIRs for one source-receiver pair before a
         </audio>
       </div>
       <div>
-        <h3>Open Loop</h3>
+        <h3>Optimised (Open-Loop)</h3>
         <audio controls>
           <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h3>Closed Loop</h3>
+        <h3>Optimised (Closed-Loop)</h3>
         <audio controls>
           <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
@@ -56,14 +56,14 @@ Power spectrograms of the 16×16 AAES RIRs for one source-receiver pair before a
         </audio>
       </div>
       <div>
-        <h3>Open Loop</h3>
+        <h3>Optimised (Open-Loop)</h3>
         <audio controls>
           <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h3>Closed Loop</h3>
+        <h3>Optimised (Closed-Loop)</h3>
         <audio controls>
           <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
