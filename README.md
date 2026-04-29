@@ -108,7 +108,7 @@ Power spectrograms of the target RIR versus one source-receiver pair in the opti
     </div>
   </div>
   <div style="display: flex; flex-direction: column; gap: 60px;">
-    <h2>Impulse Responses</h2>
+    <h2>Saxophone Convolution</h2>
     <div>
       <h3>Passive Room</h3>
       <audio controls>
