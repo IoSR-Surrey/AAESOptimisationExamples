@@ -2,9 +2,9 @@
 Audio examples for the paper "Closed-Loop Differentiable Optimisation for Active Acoustics".
 Please view this on [GitHub pages](https://iosr-surrey.github.io/AAESOptimisationExamples/).
 # Figure 4
-Power spectrograms of the 16×16 AAES RIRs for one source-receiver pair before and after optimisation.
+Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing the unequalised condition (a) to the open- (b) and closed-loop (c) results.
 <div style="display:flex;flex-direction:row;gap:16px;align-items:stretch;">
-  <img style="width:400px;height:467px;" alt="Large System Spectrograms" src="https://github.com/user-attachments/assets/9a826fe8-c524-4787-9a11-92220b41a4c4"/>
+  <img style="width:400px;height:343px;" alt="Large System Spectrograms" src="https://github.com/user-attachments/assets/6bd6a442-d1e1-4439-b2a1-5d779e70f51f"/>
   <div style="display:flex;flex-direction:column;height:467px;">
     <h2>Impulse Responses</h2>
     <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
@@ -72,10 +72,11 @@ Power spectrograms of the 16×16 AAES RIRs for one source-receiver pair before a
     </div>
   </div>
 </div>
-# Figure 6
-Power spectrograms of the target RIR versus one source-receiver pair in the optimised 16×16 AAES. Dashed line = -30 dB.
+
+# Figure 5
+Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c) the optimised Room 1 16 × 16 AAES. Dashed white lines indicate the −30 dB profile with half-octave-band resolution.
 <div style="display:flex;flex-direction:row;gap:16px;align-items:stretch;">
-  <img style="width:400px;height:467px;" alt="EDC Matching Spectrograms" src="https://github.com/user-attachments/assets/a1d8e33b-87ea-43fe-a071-c378398f8a80"/>
+  <img style="width:400px;height:343px;" alt="EDC Matching Spectrograms" src="https://github.com/user-attachments/assets/0ea4b718-f4fe-43e8-a0a1-5b6799f642cb"/>
   <div style="display:flex;flex-direction:column;height:467px;">
     <h2>Impulse Responses</h2>
     <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
