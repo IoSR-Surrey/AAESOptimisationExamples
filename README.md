@@ -11,28 +11,28 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
       <div>
         <h3>Passive Room</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 IRs/16x16_passive-room_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>No Equalisation</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 IRs/16x16_no-eq_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Optimised (Open-Loop)</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 IRs/16x16_open-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Optimised (Closed-Loop)</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 IRs/16x16_closed-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
@@ -44,28 +44,28 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
       <div>
         <h3>Passive Room</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_passive-room_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 Conv/16x16_passive-room_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>No Equalisation</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_no-eq_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 Conv/16x16_no-eq_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Optimised (Open-Loop)</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_open-loop_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 Conv/16x16_open-loop_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Optimised (Closed-Loop)</h3>
         <audio controls>
-          <source src="Audio/Fig%204/16x16_closed-loop_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 4 Conv/16x16_closed-loop_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
@@ -83,21 +83,28 @@ Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c)
       <div>
         <h3>Passive Room</h3>
         <audio controls>
-          <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 5 IRs/passive_room_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Target</h3>
         <audio controls>
-          <source src="Audio/Fig%206/target_room.wav" type="audio/wav">
+          <source src="Audio/Fig 5 IRs/target_room.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Optimised</h3>
         <audio controls>
-          <source src="Audio/Fig%206/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 5 IRs/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
+          Open on GitHub pages to view audio player (link above)
+        </audio>
+      </div>
+      <div>
+        <h3>Optimised*</h3>
+        <audio controls>
+          <source src="Audio/Fig 5 IRs/16x16_edc_matching_optimised_early_mod.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
@@ -109,24 +116,33 @@ Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c)
       <div>
         <h3>Passive Room</h3>
         <audio controls>
-          <source src="Audio/Fig%206/passive_room_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 5 Conv/passive_room_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Target</h3>
         <audio controls>
-          <source src="Audio/Fig%206/target_room.wav" type="audio/wav">
+          <source src="Audio/Fig 5 Conv/target_room_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
         <h3>Optimised</h3>
         <audio controls>
-          <source src="Audio/Fig%206/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
+          <source src="Audio/Fig 5 Conv/16x16_edc_matching_optimised_R1_S3_convolved.wav" type="audio/wav">
+          Open on GitHub pages to view audio player (link above)
+        </audio>
+      </div>
+      <div>
+        <h3>Optimised*</h3>
+        <audio controls>
+          <source src="Audio/Fig 5 Conv/16x16_edc_matching_optimised_early_mod_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
     </div>
   </div>
 </div>
+
+* To provide more comparable early energy, these examples were constructed by crossfading between the early region of the target and the late region of the optimised result.
