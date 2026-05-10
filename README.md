@@ -145,4 +145,4 @@ Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c)
   </div>
 </div>
 
-* To provide more comparable early energy, these examples were constructed by crossfading between the early region of the target and the late region of the optimised result.
+* To provide more comparable early energy, these examples were constructed by crossfading from the target to the optimised result (between 50 and 100 ms relative to the direct impulse).
