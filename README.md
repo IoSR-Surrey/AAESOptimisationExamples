@@ -1,7 +1,7 @@
 # AAESOptimisationExamples
 Audio examples for the paper "Closed-Loop Differentiable Optimisation for Active Acoustics".
 Please view this on [GitHub pages](https://iosr-surrey.github.io/AAESOptimisationExamples/).
-# Figure 4
+# Task 1: Colouration Reduction (open- vs closed-loop)
 Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing the unequalised condition (a) to the open- (b) and closed-loop (c) results.
 <div style="display:flex;flex-direction:row;gap:16px;align-items:stretch;">
   <img style="width:400px;height:457px;" alt="Large System Spectrograms" src="https://github.com/user-attachments/assets/1e63b576-08df-4387-be7a-0d03501992e3"/>
@@ -73,7 +73,7 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
   </div>
 </div>
 
-# Figure 5
+# Task 2 - Late Reverberation Matching (closed-loop)
 Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c) the optimised Room 1 16 × 16 AAES. Dashed white lines indicate the −30 dB profile with half-octave-band resolution.
 <div style="display:flex;flex-direction:row;gap:16px;align-items:stretch;">
   <img style="width:400px;height:457px;" alt="EDC Matching Spectrograms" src="https://github.com/user-attachments/assets/c969c87d-e449-41f8-b06a-8c29eaff4ff9"/>
