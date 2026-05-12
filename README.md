@@ -40,7 +40,7 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
   </div>
   <div style="display:flex;flex-direction:column;height:467px;">
     <h2>Saxophone Convolution</h2>
-    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:flex-start;">
       <div>
         <h4>Passive Room</h4>
         <audio controls>
@@ -112,7 +112,7 @@ Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c)
   </div>
   <div style="display:flex;flex-direction:column;height:467px;">
     <h2>Saxophone Convolution</h2>
-    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:flex-start;">
       <div>
         <h4>Passive Room</h4>
         <audio controls>
