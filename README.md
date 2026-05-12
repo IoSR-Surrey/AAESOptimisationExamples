@@ -5,9 +5,9 @@ Please view this on [GitHub pages](https://iosr-surrey.github.io/AAESOptimisatio
 Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing the unequalised condition (a) to the open- (b) and closed-loop (c) results.
 <div style="display:flex;flex-direction:row;gap:16px;align-items:stretch;">
   <img style="width:400px;height:457px;" alt="Large System Spectrograms" src="https://github.com/user-attachments/assets/1e63b576-08df-4387-be7a-0d03501992e3"/>
-  <div style="display:flex;flex-direction:column;height:467px;">
+  <div style="display:flex;flex-direction:column;height:400px;">
     <h2>Impulse Responses</h2>
-    <div style="flex:1;display:flex;flex-direction:column;justify-content:flex-start;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
       <div>
         <h4>Passive Room</h4>
         <audio controls>
@@ -38,9 +38,9 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
       </div>
     </div>
   </div>
-  <div style="display:flex;flex-direction:column;height:467px;">
+  <div style="display:flex;flex-direction:column;height:400px;">
     <h2>Saxophone Convolution</h2>
-    <div style="flex:1;display:flex;flex-direction:column;justify-content:flex-start;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
       <div>
         <h4>Passive Room</h4>
         <audio controls>
@@ -77,9 +77,9 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
 Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c) the optimised Room 1 16 × 16 AAES. Dashed white lines indicate the −30 dB profile with half-octave-band resolution.
 <div style="display:flex;flex-direction:row;gap:16px;align-items:stretch;">
   <img style="width:400px;height:457px;" alt="EDC Matching Spectrograms" src="https://github.com/user-attachments/assets/c969c87d-e449-41f8-b06a-8c29eaff4ff9"/>
-  <div style="display:flex;flex-direction:column;height:467px;">
+  <div style="display:flex;flex-direction:column;height:400px;">
     <h2>Impulse Responses</h2>
-    <div style="flex:1;display:flex;flex-direction:column;justify-content:flex-start;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
       <div>
         <h4>Passive Room</h4>
         <audio controls>
@@ -110,9 +110,9 @@ Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c)
       </div>
     </div>
   </div>
-  <div style="display:flex;flex-direction:column;height:467px;">
+  <div style="display:flex;flex-direction:column;height:400px;">
     <h2>Saxophone Convolution</h2>
-    <div style="flex:1;display:flex;flex-direction:column;justify-content:flex-start;">
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:space-between;">
       <div>
         <h4>Passive Room</h4>
         <audio controls>
