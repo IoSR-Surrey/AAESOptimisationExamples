@@ -9,28 +9,28 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
     <h2>Impulse Responses</h2>
     <div style="display:flex;flex-direction:column;justify-content:flex-start;">
       <div>
-        <h4 style="margin:0 8px 4px 0;">Passive Room</h4>
+        <h4 style="margin:8px 0 4px 0;">Passive Room</h4>
         <audio controls>
           <source src="Audio/Fig 4 IRs/16x16_passive-room_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">a. No Equalisation</h4>
+        <h4 style="margin:8px 0 4px 0;">a. No Equalisation</h4>
         <audio controls>
           <source src="Audio/Fig 4 IRs/16x16_no-eq_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">b. Optimised (Open-Loop)</h4>
+        <h4 style="margin:8px 0 4px 0;">b. Optimised (Open-Loop)</h4>
         <audio controls>
           <source src="Audio/Fig 4 IRs/16x16_open-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">c. Optimised (Closed-Loop)</h4>
+        <h4 style="margin:8px 0 4px 0;">c. Optimised (Closed-Loop)</h4>
         <audio controls>
           <source src="Audio/Fig 4 IRs/16x16_closed-loop_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
@@ -42,28 +42,28 @@ Power spectrograms from one test position in the Room 1 16 × 16 AAES comparing 
     <h2>Saxophone Convolution</h2>
     <div style="display:flex;flex-direction:column;justify-content:flex-start;">
       <div>
-        <h4 style="margin:0 8px 4px 0;">Passive Room</h4>
+        <h4 style="margin:8px 0 4px 0;">Passive Room</h4>
         <audio controls>
           <source src="Audio/Fig 4 Conv/16x16_passive-room_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">a. No Equalisation</h4>
+        <h4 style="margin:8px 0 4px 0;">a. No Equalisation</h4>
         <audio controls>
           <source src="Audio/Fig 4 Conv/16x16_no-eq_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">b. Optimised (Open-Loop)</h4>
+        <h4 style="margin:8px 0 4px 0;">b. Optimised (Open-Loop)</h4>
         <audio controls>
           <source src="Audio/Fig 4 Conv/16x16_open-loop_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">c. Optimised (Closed-Loop)</h4>
+        <h4 style="margin:8px 0 4px 0;">c. Optimised (Closed-Loop)</h4>
         <audio controls>
           <source src="Audio/Fig 4 Conv/16x16_closed-loop_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
@@ -81,28 +81,28 @@ Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c)
     <h2>Impulse Responses</h2>
     <div style="display:flex;flex-direction:column;justify-content:flex-start;">
       <div>
-        <h4 style="margin:0 8px 4px 0;">a. Passive Room</h4>
+        <h4 style="margin:8px 0 4px 0;">a. Passive Room</h4>
         <audio controls>
           <source src="Audio/Fig 5 IRs/passive_room_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">b. Target</h4>
+        <h4 style="margin:8px 0 4px 0;">b. Target</h4>
         <audio controls>
           <source src="Audio/Fig 5 IRs/target_room.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">c. Optimised</h4>
+        <h4 style="margin:8px 0 4px 0;">c. Optimised</h4>
         <audio controls>
           <source src="Audio/Fig 5 IRs/16x16_edc_matching_optimised_R1_S3.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">Optimised (modified*)</h4>
+        <h4 style="margin:8px 0 4px 0;">Optimised (modified*)</h4>
         <audio controls>
           <source src="Audio/Fig 5 IRs/16x16_edc_matching_optimised_early_mod.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
@@ -114,28 +114,28 @@ Power spectrograms of (a) the passive RIR of Room 1, (b) the target RIR, and (c)
     <h2>Saxophone Convolution</h2>
     <div style="display:flex;flex-direction:column;justify-content:flex-start;">
       <div>
-        <h4 style="margin:0 8px 4px 0;">a. Passive Room</h4>
+        <h4 style="margin:8px 0 4px 0;">a. Passive Room</h4>
         <audio controls>
           <source src="Audio/Fig 5 Conv/passive_room_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">b. Target</h4>
+        <h4 style="margin:8px 0 4px 0;">b. Target</h4>
         <audio controls>
           <source src="Audio/Fig 5 Conv/target_room_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">c. Optimised</h4>
+        <h4 style="margin:8px 0 4px 0;">c. Optimised</h4>
         <audio controls>
           <source src="Audio/Fig 5 Conv/16x16_edc_matching_optimised_R1_S3_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
         </audio>
       </div>
       <div>
-        <h4 style="margin:0 8px 4px 0;">Optimised (modified*)</h4>
+        <h4 style="margin:8px 0 4px 0;">Optimised (modified*)</h4>
         <audio controls>
           <source src="Audio/Fig 5 Conv/16x16_edc_matching_optimised_early_mod_convolved.wav" type="audio/wav">
           Open on GitHub pages to view audio player (link above)
